@@ -15,7 +15,7 @@ Six criteria, applicable to any output-governance mechanism regardless of vendor
 - **C1 — External independence.** The governance decision is produced by a component architecturally separate from the weights of the model being evaluated.
 - **C2 — Determinism.** The same output plus the same rule set yields the same decision, verifiable by re-execution.
 - **C3 — Inspectable normative base.** Evaluation runs against documented, readable rules rather than opaque weights.
-- **C4 — Tamper-evident evidence.** Each decision emits a record verifiable by recomputing a hash chain. *(Text in preparation.)*
+- **C4 — Tamper-evident evidence.** Each decision emits a record verifiable by an outside party through recomputation. *(Text in preparation.)*
 - **C5 — Stratified human oversight.** Higher-risk cases are routed to human review by a reproducible procedure, with the disposition recorded. *(Text in preparation.)*
 - **C6 — Representational balance.** The normative base declares and reports its balance across cultural and linguistic sources.
 
@@ -27,7 +27,7 @@ C6 is the one no existing scheme certifies. Normative bases used to evaluate AI 
 
 Version 0.1 — first public draft, August 2026. Not stable. Substantive critique is welcome and will be acknowledged: please open an issue.
 
-A reference implementation demonstrating C2 and C4 end to end is planned for release under Apache 2.0.
+A reference implementation demonstrating that the criteria are satisfiable is planned.
 
 ## Licence
 
@@ -37,3 +37,4 @@ Licensed under [Creative Commons Attribution 4.0 International](https://creative
 
 Francisco Javier Roldán Velásquez — Medellín, Colombia.
 [linkedin.com/in/frajaro](https://www.linkedin.com/in/frajaro/)
+ORCID: https://orcid.org/0009-0005-3205-8105
