@@ -1,7 +1,7 @@
 # Conformity Criteria for Third-Party Audit of AI System Outputs
 
 **Version 0.1 · August 2026 · Draft for public comment**
-Licensed under CC BY 4.0.
+Licensed under CC BY 4.0 · DOI: 10.5281/zenodo.22285173
 
 ## Scope
 
