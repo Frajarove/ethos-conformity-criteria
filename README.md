@@ -45,7 +45,5 @@ Licensed under [Creative Commons Attribution 4.0 International](https://creative
 ## Author
 
 Francisco Javier Roldán Velásquez — Medellín, Colombia.
-
-[linkedin.com/in/frajaro](https://www.linkedin.com/in/frajaro/) · ORCID: [0009-0005-3205-8105](https://orcid.org/0009-0005-3205-8105)
 [linkedin.com/in/frajaro](https://www.linkedin.com/in/frajaro/)
 ORCID: https://orcid.org/0009-0005-3205-8105
