@@ -1,18 +1,34 @@
 cff-version: 1.2.0
 message: "If you use these criteria, please cite them as below."
 title: "Conformity Criteria for Third-Party Audit of AI System Outputs"
-abstract: "Open, tool-agnostic criteria (C1–C6) stating requirements that any AI output-governance mechanism must demonstrate."
+abstract: "Open, tool-agnostic criteria (C1-C6) stating requirements that any AI output-governance mechanism should be able to demonstrate. The criteria are agnostic to vendor, architecture and implementation, and conformity is assessed against evidence a third party can obtain and check independently of the system's author."
 authors:
   - family-names: "Roldán Velásquez"
     given-names: "Francisco Javier"
     orcid: "https://orcid.org/0009-0005-3205-8105"
+    city: "Medellín"
+    country: "CO"
 version: "0.1"
 date-released: "2026-08-07"
 license: "CC-BY-4.0"
+doi: "10.5281/zenodo.22285173"
 repository-code: "https://github.com/Frajarove/ethos-conformity-criteria"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22285173"
+    description: "Concept DOI — always resolves to the latest version"
+  - type: doi
+    value: "10.5281/zenodo.22285174"
+    description: "Version DOI — v0.1"
 keywords:
   - "AI output governance"
   - "conformity criteria"
+  - "conformity assessment"
   - "third-party audit"
+  - "auditability"
+  - "human oversight"
+  - "determinism"
+  - "AI accountability"
+  - "AI governance"
   - "EU AI Act"
   - "NIST AI RMF"
