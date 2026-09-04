@@ -1,5 +1,7 @@
 # Ethos Conformity Criteria
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22285173.svg)](https://doi.org/10.5281/zenodo.22285173)
+
 Open, tool-agnostic criteria for third-party audit of AI system outputs.
 
 ## The problem
@@ -29,6 +31,13 @@ Version 0.1 — first public draft, August 2026. Not stable. Substantive critiqu
 
 A reference implementation demonstrating that the criteria are satisfiable is planned.
 
+## How to cite
+
+Roldán Velásquez, F. J. (2026). *Conformity Criteria for Third-Party Audit of AI System Outputs* (Version 0.1). Zenodo. https://doi.org/10.5281/zenodo.22285173
+
+Concept DOI (always resolves to the latest version): `10.5281/zenodo.22285173`
+Version DOI (v0.1): `10.5281/zenodo.22285174`
+
 ## Licence
 
 Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). You may share and adapt this material, including commercially, with attribution. The licence is irrevocable.
@@ -36,5 +45,8 @@ Licensed under [Creative Commons Attribution 4.0 International](https://creative
 ## Author
 
 Francisco Javier Roldán Velásquez — Medellín, Colombia.
+
+[linkedin.com/in/frajaro](https://www.linkedin.com/in/frajaro/) · ORCID: [0009-0005-3205-8105](https://orcid.org/0009-0005-3205-8105)
+
 [linkedin.com/in/frajaro](https://www.linkedin.com/in/frajaro/)
 ORCID: https://orcid.org/0009-0005-3205-8105
